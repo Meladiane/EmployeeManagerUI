@@ -6,6 +6,8 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./add-edit-dep.component.css']
 })
 export class AddEditDepComponent implements OnInit {
+  
+  // dep:any;
 
   constructor() { }
 
